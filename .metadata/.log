@@ -164,3 +164,6 @@ Write access not allowed during rendering (user.timezone)
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-04-29 14:01:02.173
+!MESSAGE activity_poem_writing.xml: Couldn't resolve resource @string/dummy_content
